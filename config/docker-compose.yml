@@ -1,0 +1,14 @@
+include:
+  - docker/docker-compose.yml
+  - prometheus/docker-compose.yml
+
+# Services
+  - nextcloud
+
+  - airtrail/docker-compose.yml
+  - dawarich/docker-compose.yml
+  - immich/docker-compose.yml
+  - koillection/docker-compose.yml
+  - lube-logger/docker-compose.yml
+  - mealie/docker-compose.yml
+  - paperless/docker-compose.yml
