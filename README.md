@@ -1,0 +1,2 @@
+# HomeServer
+Homelab server configuration
